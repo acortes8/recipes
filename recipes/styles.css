@@ -1,0 +1,31 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+.main-header,
+.sub-header {
+    color: black;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+    padding-left: 30px;
+}
+
+.main-header {
+    background-color: palevioletred;
+    font-size: 50px;
+}
+
+.sub-header {
+    background-color: palegoldenrod;
+    font-size: 35px;
+}
+
+.subsection {
+    padding-left: 30px;
+    font-size: 20px;
+}
