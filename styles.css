@@ -1,0 +1,17 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+.header {
+    background-color: rgb(241, 155, 252);
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding-left: 15px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.link {
+    font-weight: bold;
+    font-size: 25px;
+}
